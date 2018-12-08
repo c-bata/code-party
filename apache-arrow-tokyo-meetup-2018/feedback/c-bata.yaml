@@ -1,0 +1,21 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+      踏み出せたと思います。。Apache Arrowのデータ表現について知ることが出来たのが大きかったです。
+      またちょっとしたbug fixですがこちらも https://github.com/apache/arrow/pull/3129 
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    参加したい。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+      普段だらけてしまうことも多いのですが、コード懇親会はなにか自分もやらないとなという緊張感があっていい機会でした。
